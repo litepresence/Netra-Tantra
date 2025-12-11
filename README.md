@@ -1,7 +1,7 @@
 # Netra Tantra
 ## AI Translation
 
-[Cover Image](./Cover.png)
+![Cover Image](./Cover.png)
 
 When one recognizes that the seeker, the sought, and the search are one and the same—that there is nothing to attain, that the ground of pure, total consciousness has always been present beneath the obscurations of thought, sensation, and feeling—then, spontaneously, a moment arises in which the taste, the spiritual savor of the realization “I am This,” becomes all-pervasive. That experience—that luminous presence, that blossoming fragrance of immortality in its utter fullness—is the divine feminine Amṛteśvarī revealing herself as your very own heart-essence. She is not a form but an overflowing plenitude and self-aware silence that drips with refreshing, self-liberating sweetness.
 
