@@ -1,5 +1,5 @@
-# Netra Tantra
-## AI Translation
+# Sri Amritesvara Netra Tantram
+### The First EnglishTranslation
 
 ![Cover Image](./Cover.png)
 
